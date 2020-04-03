@@ -81,7 +81,7 @@ img {
 .navbar-default {
     background: #202020;
     border: none;
-    border-left: 6px solid #d54ab6;
+    /* border-left: 6px solid #d54ab6; */
     padding-right: 40px;
     margin: 0 !important;
     position: relative;
@@ -328,9 +328,9 @@ img {
 
 /* footer section */
 footer {
-  background: #1c1c1c;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  background: #3d3c46;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 footer .fa {
 	font-size: 18px;
